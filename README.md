@@ -16,3 +16,11 @@
 [知乎日报](https://github.com/myronliu347/wechat-app-zhihudaily)
 
 [2048](https://github.com/jeffche/wechat-app-2048)
+
+[CNodeJs中文社区小程序](https://github.com/Shaman05/CNodeJs-WXAPP)
+
+[二维码生成器](https://github.com/demi520/wxapp-qrcode)
+
+[仿今日头条](https://github.com/winterfeel/Wxapp_Toutiao)
+
+[简易计算器](https://github.com/boyce-ywr/wxapp-calc)
